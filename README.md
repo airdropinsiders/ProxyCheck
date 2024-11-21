@@ -23,11 +23,11 @@ python3 -m pip install -r requirements.txt
 - Run the script:
 >Windows
 ```bash
-python main.py
+python bot.py
 ```
 >Unix
 ```bash
-python3 main.py
+python3 bot.py
 ```
 - Insert your proxies filename
 >Supported Format
