@@ -8,7 +8,7 @@
 # Setup 
 - Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
 - For Unix: ``apt install python3 python3-pip -y``
-- Download this script: [ProXer](https://github.com/airdropinsiders/ProxyCheck/archive/refs/heads/main.zip) or ``git clone https://github.com/airdropinsiders/ProxyCheck``
+- Download this script: [ProXyCheck](https://github.com/airdropinsiders/ProxyCheck/archive/refs/heads/main.zip) or ``git clone https://github.com/airdropinsiders/ProxyCheck``
 - Open your Terminal/CMD and make sure you at ProXer directory
 - Installing requirements:
 >Windows
